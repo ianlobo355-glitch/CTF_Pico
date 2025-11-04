@@ -1,7 +1,7 @@
 # Riddle Registry
 
 ## Challenge Description
-![Challenge Description](images/Riddle_Registry_Description.png)
+![Challenge Description](images/Riddle_Registry_Desciption.png)
 
 ## Solution
 
